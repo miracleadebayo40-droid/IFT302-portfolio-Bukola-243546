@@ -1,7 +1,7 @@
 // This makes the button work
 document.getElementById('btn').addEventListener('click', function() {
     document.getElementById('message').innerText = 'Hello! Welcome to my IFT 302 Portfolio 🎉';
-    document.getElementById('message').style.color = '#764ba2';
+     document.getElementById('message').style.color = '#764ba2';
 });
 
 console.log('Portfolio loaded successfully for Adebayo Bukola - 243546');
